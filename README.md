@@ -1,2 +1,1 @@
-# discord_bot_winnie
-A whimsical discord bot for the ages.
+A simple command-line application.
